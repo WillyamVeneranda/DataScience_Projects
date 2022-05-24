@@ -7,9 +7,12 @@
 # Willyam Veneranda
 <sub>*Student of Data Science* at Sigmoidal </sub>
 
-Preencher BIO aqui
+As a graduate student at the Federal Rural University of Pernambuco and currently working in the area of infrastructure, I combine analytical skills, empathy, ability to work and lead teams with attention to detail. With approximately five years of experience with IT infrastructure solution applications I have developed critical thinking focused on solving problems and dealing with people.
 
-**Background in:** Python, Machine Learning, Space Operations and Mathematical Optimisation.
+
+My educational background includes my current undergraduate degree in Computer Science at the Federal Rural University of Pernambuco (UFRPE), a language program (Intermediate English) called "Win the World" and self-taught reading about general knowledge in the world of technology.
+
+**Background in:** Python, IT Infrastructure, People.
 
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/willyamveneranda/)
