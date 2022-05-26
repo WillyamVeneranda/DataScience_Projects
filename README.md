@@ -20,7 +20,7 @@ My educational background includes my current undergraduate degree in Computer S
 
 
 ## Projetos:
-Veja os tutoriais publicados em mídias sociais:
+Veja os Projetos em Data Science com minha análise:
 
 * **
 
